@@ -3,27 +3,27 @@
     "label": "中文",
     "common": {
       "meta": {
-        "title": "My Crypto Heroes | Crypto Game",
-        "description": "‘My Crypto Heroes’(MCH) is a quick and casual worker-placement Blockchain RPG. Collect and train historical Heroes of the world , get special and legendary items into your to equip, compose the ultimate unbeatable team formations and challenge epic battles to conquer the crypto world !"
+        "title": "我的加密英雄",
+        "description": "‘我的加密英雄是区块链RPG游戏 收集和训练这个世界上的历史英雄, 并获得特殊的和史诗装备，组成终极无敌的阵容，挑战史诗战斗去征服密码世界!"
       },
       "footer": {
-        "1": "HOME",
-        "2": "Invite Friends",
-        "3": "About MCH",
-        "4": "Getting Started",
-        "5": "Terms of Service",
+        "1": "首页",
+        "2": "邀请朋友",
+        "3": "关于 MCH",
+        "4": "开始游戏",
+        "5": "服务,
         "twUrl": "https://twitter.com/mycryptoheroes_"
       },
       "heroCard": {
-        "1": "Get buy and",
+        "1": "购买",
         "2": "",
-        "3": "owned",
-        "4": "remaining"
+        "3": "拥有的",
+        "4": "剩下的"
       },
       "rules": {
-        "title": "Rules",
+        "title": "规则",
         "body": [
-          "In MCH, every time a hero is purchased in a bid, the sales price will increase the next time the hero is sold.",
+          "在 MCH, 预售的英雄的价格在每一次销售后会增加.",
           "Each hero's price will rise each time you win a bid. The smaller the stock, the higher the rate of increase (to about 100%).",
           "The price of a hero will gradually decrease down to 50% of the max sale price until someone purchases it.",
           "Heroes that have sold out will not be rerun."
