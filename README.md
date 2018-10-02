@@ -1,6 +1,8 @@
 # My-Crypto-Heroes-Translation
 Translation of My Crypto Heroes. Thank you for your kind contribution for MCH! Your contribution will help MCH go further away.
 
+Feel free to ask mch team in [Discord](https://discord.gg/fBvcRv)
+
 #	How-To: Translate My Crypto Heroes!
 
 **[IMPORTANT:
