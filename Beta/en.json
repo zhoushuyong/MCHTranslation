@@ -1,71 +1,71 @@
 {
-  "label": "English",
+  "label": "简体中文",
   "common": {
     "meta": {
-      "title": "My Crypto Heroes | Beta Battle test",
-      "description": "‘My Crypto Heroes’(MCH) is Beta Battle test now. Heroes acquired through the Pre-sale can be used. You can get some prize! Beta tests will be carried out for each function sequentially."
+      "title": "我的加密英雄 | 内测",
+      "description": "现在我的加密英雄(MCH)正在内测. 能通过预售获得英雄. 内测将就每一个功能进行测试，通过内测你能获得一些奖励."
     }
   },
   "pages": {
-    "home": "Home",
-    "inventory": "Inventory",
-    "team": "Team",
-    "battles": "Battle",
-    "dungeons": "Quest",
-    "market": "Market",
-    "help": "Help",
-    "terms": "Terms"
+    "home": "首页",
+    "inventory": "菜单",
+    "team": "队伍",
+    "battles": "战斗",
+    "dungeons": "探索",
+    "market": "市场",
+    "help": "帮助",
+    "terms": "条款"
   },
   "others": {
-    "other": "Others"
+    "other": "其他"
   },
   "home": {
     "howTo": [
       {
-        "title": "Form teams",
+        "title": "组队",
         "body": [
           {
-            "title": "Choosing team members",
-            "body": "Assemble a team using your heroes.\nYou can include up to 3 heroes in your team."
+            "title": "选择队伍成员",
+            "body": "在你英雄中选择三个组成队伍."
           },
           {
-            "title": "Choosing Extensions (Equipment)",
-            "body": "Heroes can wear up to 2 extensions.\nHeroes are strengthened when wearing equipment."
+            "title": "选择装备",
+            "body": "英雄能使用两个装备来增强其能力."
           },
           {
-            "title": "Rearrange Active Skills",
-            "body": "Heroes act using Active Skills during their turns. Active Skills are automatically used in top-down order.\nRearrange their order according to your battle plan."
+            "title": "安排主动技能",
+            "body": "英雄按照你安排的顺序被动释放主动技能."
           }
         ]
       },
       {
-        "title": "Participate in Battle",
+        "title": "参与战斗",
         "body": [
           {
-            "title": "Choosing opponents",
-            "body": "Ranks are an indication of the opponent's strength.\nThe higher the enemy's rank, the greater the potential rewards!"
+            "title": "选择对象",
+            "body": "级别是对手实力等级的标志，对手越强，奖励越丰厚!"
           },
           {
-            "title": "Battle!",
-            "body": "Battles are autonomously fought by your team.\nCheer on your heroes and watch over the battle progression!"
+            "title": "战斗!",
+            "body": "战斗自动进行，检查你的英雄并观看战斗过程!"
           },
           {
-            "title": "Rank Rewards.",
-            "body": "Your rank will change based on battle results.\nRewards will be granted reflecting your Battle β Test rank once the game is launched."
+            "title": "级别奖励.",
+            "body": "根据战斗结果改变你的级别.\一旦战斗开始，将根据你在游戏战斗中测试的表现给予奖励."
           }
         ]
       }
     ],
     "notice": [
-      "The heroes and extensions provided are for Battle β Test only.",
-      "Heroes purchased in the pre-sale may be used in Battle β Test, however their status and skills will differ after the game is in service.",
+      "提供的英雄和装备仅仅使用于内测",
+      "只有在预售中购买的英雄能在内测中使用, 在游戏正式开始后他们的技能和状态可能会改变",
       "Free-of-charge heroes and extensions will be withdrawn after Battle β Test ends.",
       "Data from Battle β Test will not be carried over after the game's release."
     ],
     "update": "Currently only a part of battle beta is playable. For details of the function and future update schedule, please see below.",
-    "login": "To play Beta Battle you need to log in to the Loom Network."
+    "login": "参与内测需登陆the Loom Network."
   },
   "team": {
-    "button": "This is my team !!"
+    "button": "这是我们团队 !!"
   }
 }
