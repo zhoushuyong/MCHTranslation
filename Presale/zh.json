@@ -1,0 +1,179 @@
+// Please translate this file
+{
+    "label": "中文",
+    "common": {
+      "meta": {
+        "title": "My Crypto Heroes | Crypto Game",
+        "description": "‘My Crypto Heroes’(MCH) is a quick and casual worker-placement Blockchain RPG. Collect and train historical Heroes of the world , get special and legendary items into your to equip, compose the ultimate unbeatable team formations and challenge epic battles to conquer the crypto world !"
+      },
+      "footer": {
+        "1": "HOME",
+        "2": "Invite Friends",
+        "3": "About MCH",
+        "4": "Getting Started",
+        "5": "Terms of Service",
+        "twUrl": "https://twitter.com/mycryptoheroes_"
+      },
+      "heroCard": {
+        "1": "Get buy and",
+        "2": "",
+        "3": "owned",
+        "4": "remaining"
+      },
+      "rules": {
+        "title": "Rules",
+        "body": [
+          "In MCH, every time a hero is purchased in a bid, the sales price will increase the next time the hero is sold.",
+          "Each hero's price will rise each time you win a bid. The smaller the stock, the higher the rate of increase (to about 100%).",
+          "The price of a hero will gradually decrease down to 50% of the max sale price until someone purchases it.",
+          "Heroes that have sold out will not be rerun."
+        ],
+        "collaboration" : "When you buy a collaboration hero, you need to execute approve in advance"
+      },
+      "toast": {
+        "1": "Purchasing process started.",
+        "2": "Approving process started."
+      }
+    },
+    "pages": {
+      "top": {
+        "betaBattle": "Go Beta Battle!",
+        "countdown": {
+          "1": "Pre-sale has finished",
+          "2": "UTC : 9/21 fri 0:00 - 9/30 sun 23:00\nJST : 9/21 fri 9:00 - 10/1 mon 8:00",
+          "3": "Head to the Pre-sale now!!!"
+        },
+        "about": {
+          "1": "What is \"My Crypto Heroes\" ?",
+          "2": "In the near future...\nRecords of past heroes have all vanished into the Crypto World.\n\nIt is your job as a data miner to dive into the depth of the Crypto World to battle enemies and restore the heroes back to their finest forms.\nCollect and strengthen your heroes through battles and trades to stay ahead of the other miners!\n\nMy Crypto Heroes\nWhere you can find the best heroes imaginable...",
+          "3": "Game details"
+        },
+        "concept": {
+          "1": "Concept",
+          "2": "Proof of Play",
+          "3": "Play the game and earn blockchain assets!",
+          "4": "Proof of Victory",
+          "5": "Battle other players to gain blockchain assets!",
+          "6": "Trading Asset Game",
+          "7": "Trade the blockchain assets you earned to strengthen your army!",
+          "8": "Editable Asset",
+          "9": "Create the value of your blockchain assets on your own!"
+        },
+        "presale": {
+          "1": "Pre-sale",
+          "2": "Pre-sale has finished",
+          "3": "Pre-sale Bonus",
+          "4": "100% worth of GUM (in-game currency) for all ETH used to purchase heroes will be returned to you.",
+          "5": "What are GUM?",
+          "6": "GUM (Game User Money) is the currency used in MCH, it can be purchased with ETH. GUM is mainly used for the purchase of heroes and for transactions between players.\n\n* You can use a \"Hero\" bought in a pre-sale with a Beta battle"
+        },
+        "heroes": {
+          "1": "Legendary Hero",
+          "2": "Legendary Heroes are the champions of the MCH world.\nTheir stats overwhelm other heroes and it's no exaggeration to say that they can only be taken down by other Legendary Heroes.\nIn addition, the two Legendary Heroes that are offered for only 10 items this time are the best performances, among others Heroes.",
+          "3": "Epic Hero",
+          "4": "Epic Heroes are powerful heroes that are just below Legendary Heroes.\nDue to the fact that the number of Legendary Heroes are limited, Epic Heroes are the most trustworthy heroes frequently used in battles. Depending on their unique skill, they may be preferred over the Legendary Heroes in your team.",
+          "5": "Collaboration Hero",
+          "6": "EMONT ALLIANCE: Collaboration with the popular block chain game “ETHEREMON”\nAnticipated collaboration with MCH!!\nLimited to 1,000 units during the pre-sale period!",
+          "7": "* 1: What is EMONT",
+          "8": "It is a token tendered by ETHEREMON (https://www.etheremon.com/). Players can gain EMONT through a variety of activities such as battles and tournaments, Eggs purchased can be used as adventure fees in “Adventure Mode”.",
+          "9": "* 2: What is the EMONT ALLIANCE",
+          "10": "EMONT Alliance, we empower game developers to build games and applications on the Ethereum network. EMONT Alliance will be an ecosystem powered by cutting-edge technologies to bring benefits to both game builders and players that no traditional games could.",
+          "11": "* 3: Limited to while stocks last.",
+          "12": "Air Drop Hero",
+          "13": "Limited to 2,500 units during the pre-sale period!",
+          "14": "Wright Brothers",
+          "15": "Rarity: Uncommon (equivalent to 0.025 ETH)\nAir drops (free distribution) only for pre-sale period!",
+          "16": "Sales Period\nUTC : 9/21 fri 0:00 - 9/30 sun 23:00\nJST : 9/21 fri 9:00 - 10/1 mon 8:00",
+          "17": "* 1: 1 unit costs no ETH, however Gas is not included.\n* 2: Purchases are limited to 1 unit per person.\n* 3: Limited to while stocks last.",
+          "18": "Pre-sale has finished"
+        },
+        "howto": {
+          "1": "How to play MY CRYPTO HEROES on PC",
+          "2": "Access the official METAMASK site from the link below and install METAMASK on your browser.",
+          "3": "After the installation is complete, create a wallet and copy the link below to access MCH!",
+          "4": "For more details on how to use METAMASK",
+          "5": "Access the official Mobile Wallet app site from the link below and install Mobile Wallet on your device.",
+          "6": "After the installation is complete, copy the link below to your Mobile Wallet browser to access MCH!"
+        },
+        "roadmap": {
+          "1": "Roadmap",
+          "2": "Hero Pre-sale (finished)",
+          "3": "UTC:September 21 fri 0:00 - September 30 sun 23:00, 2018\nJST:September 21 fri 9:00 - October 1 sun 8:00, 2018",
+          "4": "Heroes, the key assets of My Crypto Heroes, will go on pre-sale.",
+          "5": "You can purchase special limited-edition heroes using ETH at the pre-sale.",
+          "6": "As a reward for purchasing in the pre-sale you will receive, through Airdrop after the game's launch, GUM (Game User's Money) of equivalent value to the ETH used to purchase Heroes.",
+          "7": "Beta Battle Test",
+          "8": "UTC:September 25 tue 0:00, 2018 -\nJST:September 25 tue 9:00, 2018 -",
+          "9": "The Beta Battle Test will be implemented in a test environment.",
+          "10": "Some functions of Duel Battle, where users go against each other, will be available to play.",
+          "11": "Anyone can participate. Heroes purchased in the pre-sale can also be used.",
+          "12": "Data from the test environment will not be carried over after the game is live.",
+          "13": "Players participating in the test will receive rewards!",
+          "14": "Service Start",
+          "15": "October 2018",
+          "16": "Explore dungeons with a team of your chosen heroes in Quest Battles",
+          "17": "Alter your hero's appearance for an ability boost with the Art Edit function",
+          "18": "New heroes on sale and trading functions between players now available.",
+          "19": "Update",
+          "20": "4Q 2018 -",
+          "21": "Fight other players in Duel Battle",
+          "22": "Earn revenue through the Land function",
+          "23": "Contest other users for Land in Land Battle"
+        }
+      },
+      "introduction": {
+        "lead": {
+          "title": "Game Overview",
+          "body": "‘My Crypto Heroes’(MCH) is a HTML5 game for smartphones and PC featuring blockchain technology.\n\nMCH is a quick and casual worker-placement RPG.\nCollect and train historical Heroes of the world, get special and legendary items into your to equip, compose the ultimate unbeatable team formations and challenge epic battles to conquer the crypto world !"
+        },
+        "sections": [
+          {
+            "title": "Acquiring Heroes",
+            "body": "Heroes can be purchased in the pre-sale with Ethereum (ETH), and GUM (Game User Money) after the game release.\nThere are also free heroes, so it is also possible to play the game for free.\nForm a team with the heroes you have acquired and go forth into the world of My Crypto Heroes!"
+          },
+          {
+            "title": "Customizing Heroes",
+            "body": "You can name and customize your hero's appearance to your liking.\nBy using the art edit function, you can create your own truly original hero with extra additional abilities"
+          },
+          {
+            "title": "Quests",
+            "body": "You can send your heroes to fight other Heroes of your choosing\nThrough clearing quests Heroes will level up, acquiring items and becoming stronger."
+          },
+          {
+            "title": "Extensions",
+            "body": "Extensions are equipment that power up your hero. \nBy defeating enemies in quests, you can obtain these extensions such as swords and armor.\nIf you manage to get rare, special extensions, you’ll be the envy of everybody!"
+          },
+          {
+            "title": "Buying and Selling Heroes and Extensions",
+            "body": "Heroes and extensions can be bought and sold through the marketplace.\nThrough clever economic moves you can greatly increase your power and asset value."
+          },
+          {
+            "title": "Land (Territories)",
+            "body": "Land, through ownership, will generate profit just like actual real estate does.\nProfits are generated when other players visit your land and spend GUM while on quests."
+          },
+          {
+            "title": "Acquiring Land (Territories)",
+            "body": "Land owned by other players can be acquired through battles. If you defeat another player in a battle, you can choose to purchase their land.\nCollecting lots of land and dominating Crypto World is the ultimate goal."
+          },
+          {
+            "title": "Playing the game does not cost Gas",
+            "body": "As MCH uses the Loom Network side chain, Gas is not necessary to play the game. Heroes, extensions and other assets can be managed through the Ethereum wallet."
+          }
+        ]
+      },
+      "account": {
+        "1": "Account",
+        "2": "Your Wallet Address",
+        "3": "Referral Program",
+        "4": "Whenever a friend you invited to MCH purchases heroes in the pre-sale, you will receive GUM! The reward will be 20% of the ETH your friend spent and will be rewarded after the game's launch.",
+        "5": "Invite your friends",
+        "6": "Friends starting MCH",
+        "7": "GUM collected",
+        "8": "Inventory",
+        "9": "Pre-sale purchase benefits",
+        "10": "Purchase benefits will be granted directly to your account after the game's launch.",
+        "11": "You don't have any heroes"
+      }
+    }
+  }
+  
